@@ -1,0 +1,12 @@
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.exe.config
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.exe
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.pdb
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.csprojResolveAssemblyReference.cache
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.Form1.resources
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.Cache
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.exe
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.pdb
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.AddItemDialog.resources
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Newtonsoft.Json.dll
+c:\users\dlsch\onedrive\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Newtonsoft.Json.xml
